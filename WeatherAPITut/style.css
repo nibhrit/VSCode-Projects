@@ -1,5 +1,5 @@
 h2{
-    color: #064091;
+    color: #0e0e0c;
     font-weight: 500;
     font-size: 3.4rem;
     opacity: 0.8;
@@ -8,7 +8,7 @@ h2{
 
 .weather-container{
     font-family: "Poppins", sans-serif;
-    background:linear-gradient(to right top, #6bb3d4, #4e76e6);
+    background:linear-gradient(to right top, #dacee7, #ab65e4);
     text-align: center;
     border-radius: 10px;
     padding: 0;
